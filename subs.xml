@@ -6,6 +6,9 @@
         <ownerEmail>mlbright@gmail.com</ownerEmail>
     </head>
     <body>
+    <outline text="Perl Gems" title="Perl Gems"
+            type="rss"
+            xmlUrl="http://perlgems.blogspot.com/feeds/posts/default" htmlUrl="http://perlgems.blogspot.ca/"/>
         <outline text="$app->MainLoop();" title="$app->MainLoop();"
             type="rss"
             xmlUrl="http://binaryperl.blogspot.com/feeds/posts/default" htmlUrl="http://binaryperl.blogspot.com/"/>
