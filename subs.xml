@@ -317,8 +317,6 @@
             xmlUrl="http://feeds.feedburner.com/PersistentInfo" htmlUrl="http://blog.persistent.info/"/>
         <outline text="Pete Zaitcev" title="Pete Zaitcev" type="rss"
             xmlUrl="http://zaitcev.livejournal.com/data/rss" htmlUrl="http://zaitcev.livejournal.com/"/>
-        <outline text="Peter Norvig" title="Peter Norvig" type="rss"
-            xmlUrl="http://norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com"/>
         <outline text="Peter Sobot" title="Peter Sobot" type="rss"
             xmlUrl="http://petersobot.com/atom.xml" htmlUrl="http://petersobot.com/"/>
         <outline text="Piccolblog" title="Piccolblog" type="rss"
