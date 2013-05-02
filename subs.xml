@@ -399,9 +399,6 @@
         <outline text="solem's vision blog" title="solem's vision blog"
             type="rss"
             xmlUrl="http://www.janeriksolem.net/feeds/posts/default" htmlUrl="http://www.janeriksolem.net/"/>
-        <outline text="Steve Hanov's Programming Blog"
-            title="Steve Hanov's Programming Blog" type="rss"
-            xmlUrl="http://stevehanov.ca/blog/index.php?atom" htmlUrl="http://stevehanov.ca/blog"/>
         <outline text="Steve Krenzel" title="Steve Krenzel" type="rss"
             xmlUrl="http://stevekrenzel.com/rss.xml" htmlUrl="http://www.stevekrenzel.com/"/>
         <outline text="Stuff White People Like"
