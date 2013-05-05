@@ -306,8 +306,6 @@
         <outline text="Otaku, Cedric's weblog"
             title="Otaku, Cedric's weblog" type="rss"
             xmlUrl="http://feeds.feedburner.com/beust/OtakuXml" htmlUrl="http://beust.com/weblog"/>
-        <outline text="Perl Hacks" title="Perl Hacks" type="rss"
-            xmlUrl="http://feeds.feedburner.com/PerlHacks" htmlUrl="http://perlhacks.com"/>
         <outline text="Perl Tips" title="Perl Tips" type="rss"
             xmlUrl="http://perltraining.com.au/tips/index.atom" htmlUrl="http://perltraining.com.au/tips/"/>
         <outline text="Perlbuzz" title="Perlbuzz" type="rss"
