@@ -393,8 +393,6 @@
         <outline text="Simon Willison's Weblog"
             title="Simon Willison's Weblog" type="rss"
             xmlUrl="http://feeds.simonwillison.net/swn-everything" htmlUrl="http://simonwillison.net/"/>
-        <outline text="SKORKS" title="SKORKS" type="rss"
-            xmlUrl="http://feeds.feedburner.com/softwaretechandmore" htmlUrl="http://www.skorks.com"/>
         <outline text="solem's vision blog" title="solem's vision blog"
             type="rss"
             xmlUrl="http://www.janeriksolem.net/feeds/posts/default" htmlUrl="http://www.janeriksolem.net/"/>
